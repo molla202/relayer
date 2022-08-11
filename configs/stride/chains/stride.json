@@ -1,1 +1,16 @@
-
+{
+  "type": "cosmos",
+  "value": {
+    "key": "molla202",
+    "chain-id": "STRIDE-TESTNET-2",
+    "rpc-addr": "http://",
+    "account-prefix": "stride",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.001ustrd",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
